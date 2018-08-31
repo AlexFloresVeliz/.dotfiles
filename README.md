@@ -1,3 +1,3 @@
 # .dotfiles
 
-Them .dotfile tho
+Them .dotfiles tho
